@@ -1,0 +1,7 @@
+C:\Users\142084\source\repos\RemovingFromList\RemovingFromList\bin\Debug\RemovingFromList.exe.config
+C:\Users\142084\source\repos\RemovingFromList\RemovingFromList\bin\Debug\RemovingFromList.exe
+C:\Users\142084\source\repos\RemovingFromList\RemovingFromList\bin\Debug\RemovingFromList.pdb
+C:\Users\142084\source\repos\RemovingFromList\RemovingFromList\obj\Debug\RemovingFromList.csprojAssemblyReference.cache
+C:\Users\142084\source\repos\RemovingFromList\RemovingFromList\obj\Debug\RemovingFromList.csproj.CoreCompileInputs.cache
+C:\Users\142084\source\repos\RemovingFromList\RemovingFromList\obj\Debug\RemovingFromList.exe
+C:\Users\142084\source\repos\RemovingFromList\RemovingFromList\obj\Debug\RemovingFromList.pdb

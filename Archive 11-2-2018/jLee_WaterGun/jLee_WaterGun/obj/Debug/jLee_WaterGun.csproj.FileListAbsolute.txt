@@ -1,0 +1,7 @@
+C:\Users\142084\OneDrive - Academy District 20\C#\jLee_WaterGun\jLee_WaterGun\obj\Debug\jLee_WaterGun.csprojAssemblyReference.cache
+C:\Users\142084\OneDrive - Academy District 20\C#\jLee_WaterGun\jLee_WaterGun\obj\Debug\jLee_WaterGun.csproj.CoreCompileInputs.cache
+C:\Users\142084\OneDrive - Academy District 20\C#\jLee_WaterGun\jLee_WaterGun\bin\Debug\jLee_WaterGun.exe.config
+C:\Users\142084\OneDrive - Academy District 20\C#\jLee_WaterGun\jLee_WaterGun\bin\Debug\jLee_WaterGun.exe
+C:\Users\142084\OneDrive - Academy District 20\C#\jLee_WaterGun\jLee_WaterGun\bin\Debug\jLee_WaterGun.pdb
+C:\Users\142084\OneDrive - Academy District 20\C#\jLee_WaterGun\jLee_WaterGun\obj\Debug\jLee_WaterGun.exe
+C:\Users\142084\OneDrive - Academy District 20\C#\jLee_WaterGun\jLee_WaterGun\obj\Debug\jLee_WaterGun.pdb

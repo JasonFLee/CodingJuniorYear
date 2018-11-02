@@ -1,0 +1,7 @@
+C:\Users\142084\OneDrive - Academy District 20\C#\meh\meh\bin\Debug\meh.exe.config
+C:\Users\142084\OneDrive - Academy District 20\C#\meh\meh\bin\Debug\meh.exe
+C:\Users\142084\OneDrive - Academy District 20\C#\meh\meh\bin\Debug\meh.pdb
+C:\Users\142084\OneDrive - Academy District 20\C#\meh\meh\obj\Debug\meh.csprojAssemblyReference.cache
+C:\Users\142084\OneDrive - Academy District 20\C#\meh\meh\obj\Debug\meh.csproj.CoreCompileInputs.cache
+C:\Users\142084\OneDrive - Academy District 20\C#\meh\meh\obj\Debug\meh.exe
+C:\Users\142084\OneDrive - Academy District 20\C#\meh\meh\obj\Debug\meh.pdb

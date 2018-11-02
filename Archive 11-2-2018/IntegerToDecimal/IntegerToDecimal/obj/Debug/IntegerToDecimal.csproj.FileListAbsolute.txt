@@ -1,0 +1,7 @@
+C:\Users\142084\OneDrive - Academy District 20\C#\IntegerToDecimal\IntegerToDecimal\bin\Debug\IntegerToDecimal.exe.config
+C:\Users\142084\OneDrive - Academy District 20\C#\IntegerToDecimal\IntegerToDecimal\bin\Debug\IntegerToDecimal.exe
+C:\Users\142084\OneDrive - Academy District 20\C#\IntegerToDecimal\IntegerToDecimal\bin\Debug\IntegerToDecimal.pdb
+C:\Users\142084\OneDrive - Academy District 20\C#\IntegerToDecimal\IntegerToDecimal\obj\Debug\IntegerToDecimal.csprojAssemblyReference.cache
+C:\Users\142084\OneDrive - Academy District 20\C#\IntegerToDecimal\IntegerToDecimal\obj\Debug\IntegerToDecimal.csproj.CoreCompileInputs.cache
+C:\Users\142084\OneDrive - Academy District 20\C#\IntegerToDecimal\IntegerToDecimal\obj\Debug\IntegerToDecimal.exe
+C:\Users\142084\OneDrive - Academy District 20\C#\IntegerToDecimal\IntegerToDecimal\obj\Debug\IntegerToDecimal.pdb

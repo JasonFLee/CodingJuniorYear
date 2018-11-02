@@ -1,0 +1,7 @@
+C:\Users\142084\source\repos\JleeGuessNumber\JleeGuessNumber\bin\Debug\JleeGuessNumber.exe.config
+C:\Users\142084\source\repos\JleeGuessNumber\JleeGuessNumber\bin\Debug\JleeGuessNumber.exe
+C:\Users\142084\source\repos\JleeGuessNumber\JleeGuessNumber\bin\Debug\JleeGuessNumber.pdb
+C:\Users\142084\source\repos\JleeGuessNumber\JleeGuessNumber\obj\Debug\JleeGuessNumber.csprojAssemblyReference.cache
+C:\Users\142084\source\repos\JleeGuessNumber\JleeGuessNumber\obj\Debug\JleeGuessNumber.csproj.CoreCompileInputs.cache
+C:\Users\142084\source\repos\JleeGuessNumber\JleeGuessNumber\obj\Debug\JleeGuessNumber.exe
+C:\Users\142084\source\repos\JleeGuessNumber\JleeGuessNumber\obj\Debug\JleeGuessNumber.pdb

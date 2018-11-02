@@ -1,0 +1,7 @@
+C:\Users\142084\source\repos\RollerCoaster\RollerCoaster\bin\Debug\RollerCoaster.exe.config
+C:\Users\142084\source\repos\RollerCoaster\RollerCoaster\bin\Debug\RollerCoaster.exe
+C:\Users\142084\source\repos\RollerCoaster\RollerCoaster\bin\Debug\RollerCoaster.pdb
+C:\Users\142084\source\repos\RollerCoaster\RollerCoaster\obj\Debug\RollerCoaster.csprojAssemblyReference.cache
+C:\Users\142084\source\repos\RollerCoaster\RollerCoaster\obj\Debug\RollerCoaster.csproj.CoreCompileInputs.cache
+C:\Users\142084\source\repos\RollerCoaster\RollerCoaster\obj\Debug\RollerCoaster.exe
+C:\Users\142084\source\repos\RollerCoaster\RollerCoaster\obj\Debug\RollerCoaster.pdb

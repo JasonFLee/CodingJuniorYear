@@ -1,0 +1,7 @@
+C:\Users\142084\OneDrive - Academy District 20\C#\JLeeHangman\JLeeHangman\bin\Debug\JLeeHangman.exe.config
+C:\Users\142084\OneDrive - Academy District 20\C#\JLeeHangman\JLeeHangman\bin\Debug\JLeeHangman.exe
+C:\Users\142084\OneDrive - Academy District 20\C#\JLeeHangman\JLeeHangman\bin\Debug\JLeeHangman.pdb
+C:\Users\142084\OneDrive - Academy District 20\C#\JLeeHangman\JLeeHangman\obj\Debug\JLeeHangman.csprojAssemblyReference.cache
+C:\Users\142084\OneDrive - Academy District 20\C#\JLeeHangman\JLeeHangman\obj\Debug\JLeeHangman.csproj.CoreCompileInputs.cache
+C:\Users\142084\OneDrive - Academy District 20\C#\JLeeHangman\JLeeHangman\obj\Debug\JLeeHangman.exe
+C:\Users\142084\OneDrive - Academy District 20\C#\JLeeHangman\JLeeHangman\obj\Debug\JLeeHangman.pdb

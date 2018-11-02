@@ -1,0 +1,14 @@
+C:\Users\142084\source\repos\FlipString\FlipString\bin\Debug\FlipString.exe.config
+C:\Users\142084\source\repos\FlipString\FlipString\bin\Debug\FlipString.exe
+C:\Users\142084\source\repos\FlipString\FlipString\bin\Debug\FlipString.pdb
+C:\Users\142084\source\repos\FlipString\FlipString\obj\Debug\FlipString.csprojAssemblyReference.cache
+C:\Users\142084\source\repos\FlipString\FlipString\obj\Debug\FlipString.csproj.CoreCompileInputs.cache
+C:\Users\142084\source\repos\FlipString\FlipString\obj\Debug\FlipString.exe
+C:\Users\142084\source\repos\FlipString\FlipString\obj\Debug\FlipString.pdb
+C:\Users\142084\OneDrive - Academy District 20\C#\FlipString\FlipString\bin\Debug\FlipString.exe.config
+C:\Users\142084\OneDrive - Academy District 20\C#\FlipString\FlipString\bin\Debug\FlipString.exe
+C:\Users\142084\OneDrive - Academy District 20\C#\FlipString\FlipString\bin\Debug\FlipString.pdb
+C:\Users\142084\OneDrive - Academy District 20\C#\FlipString\FlipString\obj\Debug\FlipString.csprojAssemblyReference.cache
+C:\Users\142084\OneDrive - Academy District 20\C#\FlipString\FlipString\obj\Debug\FlipString.csproj.CoreCompileInputs.cache
+C:\Users\142084\OneDrive - Academy District 20\C#\FlipString\FlipString\obj\Debug\FlipString.exe
+C:\Users\142084\OneDrive - Academy District 20\C#\FlipString\FlipString\obj\Debug\FlipString.pdb

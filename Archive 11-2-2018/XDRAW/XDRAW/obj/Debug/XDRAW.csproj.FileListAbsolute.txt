@@ -1,0 +1,7 @@
+c:\users\142084\source\repos\XDRAW\XDRAW\obj\Debug\XDRAW.csprojAssemblyReference.cache
+c:\users\142084\source\repos\XDRAW\XDRAW\obj\Debug\XDRAW.csproj.CoreCompileInputs.cache
+c:\users\142084\source\repos\XDRAW\XDRAW\bin\Debug\XDRAW.exe.config
+c:\users\142084\source\repos\XDRAW\XDRAW\bin\Debug\XDRAW.exe
+c:\users\142084\source\repos\XDRAW\XDRAW\bin\Debug\XDRAW.pdb
+c:\users\142084\source\repos\XDRAW\XDRAW\obj\Debug\XDRAW.exe
+c:\users\142084\source\repos\XDRAW\XDRAW\obj\Debug\XDRAW.pdb
