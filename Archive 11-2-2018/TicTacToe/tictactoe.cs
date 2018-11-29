@@ -161,7 +161,6 @@ namespace TicTacToe
                 multiDimentionalArray[0, 0] = player;
 
             }
-           
             if (input == '2' && multiDimentionalArray[0, 1] != 'x' && multiDimentionalArray[0, 1] != 'o')
             {
                 multiDimentionalArray[0, 1] = player;

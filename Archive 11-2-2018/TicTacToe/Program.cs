@@ -23,43 +23,48 @@ namespace TicTacToe
             
             Console.WriteLine("x's go first, first to get 3 in a row wins");
 
-            
-            DrawBoard(multiDimentionalArray);
- 
-            ProcessTurn(multiDimentionalArray, 'x');
             DrawBoard(multiDimentionalArray);
             for (int p = 1; p < 5; p++)
             {
-                    ProcessTurn(multiDimentionalArray, 'o');
+                    ProcessTurn(multiDimentionalArray, 'x');
                     DrawBoard(multiDimentionalArray);
-                char result = VerifyBoard(multiDimentionalArray);
-
-                if (result == 'o')
-                {
-                    Console.WriteLine("O WINS!");
-                    break;
-                }
-                
-               
-                ProcessTurn(multiDimentionalArray, 'x');
-                DrawBoard(multiDimentionalArray);
-                result = VerifyBoard(multiDimentionalArray);
-
-
-                if (result == 'x')
+                     char result = VerifyBoard(multiDimentionalArray);
+                Console.WriteLine(result);
+                if(result == 'x')
                 {
                     Console.WriteLine("X WINS!");
-                    break;
+                    return;
                 }
-                if (p == 4 && result != 'x' && result !='o')
+                if (result == 'y')
+                {
+                    Console.WriteLine("X WINS!");
+                       return;
+                }
+                if (result == 't')
                 {
                     Console.WriteLine("TIE");
+                    return;
                 }
-            }
 
+                ProcessTurn(multiDimentionalArray, 'o');
+                    DrawBoard(multiDimentionalArray);
+            }
+               ProcessTurn(multiDimentionalArray, 'x');
+                DrawBoard(multiDimentionalArray);
+            
+
+            
             Console.ReadLine();
+
+
+
+
+
+
+
         }
-        
+
+
 
         static char VerifyBoard(char[,] multiDimentionalArray)
         {
@@ -139,8 +144,33 @@ namespace TicTacToe
             }
 
 
-            return ' ';
+             bool gridfull = true;
 
+            for (int i =0; i < multiDimentionalArray.GetLength(0); i++)
+            {
+                for (int j = 0; j < multiDimentionalArray.GetLength(1); j++)
+                {
+                    if (multiDimentionalArray[i, j] == ' ')
+                    {
+                        gridfull = false;
+                    }
+                    
+                }
+            }
+
+            if(gridfull == true)
+            {
+                Console.WriteLine("TIE");
+                return 't';
+            }
+            else
+            {
+                Console.WriteLine("no TIE"); 
+
+                return ' ';
+             }
+
+            
         }
         static void DrawBoard(char[,] multiDimentionalArray)
         {
@@ -150,7 +180,6 @@ namespace TicTacToe
             Console.WriteLine("---------");
             Console.WriteLine(multiDimentionalArray[2, 0] + " | " + multiDimentionalArray[2, 1] + " | " + multiDimentionalArray[2, 2]);
         }
-        
         static void ProcessTurn(char[,] multiDimentionalArray, char player)
         {
             Console.WriteLine("What square do you want? 1-9");
@@ -161,7 +190,6 @@ namespace TicTacToe
                 multiDimentionalArray[0, 0] = player;
 
             }
-           
             if (input == '2' && multiDimentionalArray[0, 1] != 'x' && multiDimentionalArray[0, 1] != 'o')
             {
                 multiDimentionalArray[0, 1] = player;
