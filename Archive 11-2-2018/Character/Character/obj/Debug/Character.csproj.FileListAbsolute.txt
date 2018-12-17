@@ -1,0 +1,7 @@
+C:\Users\142084\Documents\CodingJuniorYear\Archive 11-2-2018\Character\Character\bin\Debug\Character.exe.config
+C:\Users\142084\Documents\CodingJuniorYear\Archive 11-2-2018\Character\Character\bin\Debug\Character.exe
+C:\Users\142084\Documents\CodingJuniorYear\Archive 11-2-2018\Character\Character\bin\Debug\Character.pdb
+C:\Users\142084\Documents\CodingJuniorYear\Archive 11-2-2018\Character\Character\obj\Debug\Character.csprojAssemblyReference.cache
+C:\Users\142084\Documents\CodingJuniorYear\Archive 11-2-2018\Character\Character\obj\Debug\Character.csproj.CoreCompileInputs.cache
+C:\Users\142084\Documents\CodingJuniorYear\Archive 11-2-2018\Character\Character\obj\Debug\Character.exe
+C:\Users\142084\Documents\CodingJuniorYear\Archive 11-2-2018\Character\Character\obj\Debug\Character.pdb

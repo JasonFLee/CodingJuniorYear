@@ -1,0 +1,7 @@
+C:\Users\142084\OneDrive - Academy District 20\C#\AcceptsDoubleResetsTo2\AcceptsDoubleResetsTo2\bin\Debug\AcceptsDoubleResetsTo2.exe.config
+C:\Users\142084\OneDrive - Academy District 20\C#\AcceptsDoubleResetsTo2\AcceptsDoubleResetsTo2\bin\Debug\AcceptsDoubleResetsTo2.exe
+C:\Users\142084\OneDrive - Academy District 20\C#\AcceptsDoubleResetsTo2\AcceptsDoubleResetsTo2\bin\Debug\AcceptsDoubleResetsTo2.pdb
+C:\Users\142084\OneDrive - Academy District 20\C#\AcceptsDoubleResetsTo2\AcceptsDoubleResetsTo2\obj\Debug\AcceptsDoubleResetsTo2.csprojAssemblyReference.cache
+C:\Users\142084\OneDrive - Academy District 20\C#\AcceptsDoubleResetsTo2\AcceptsDoubleResetsTo2\obj\Debug\AcceptsDoubleResetsTo2.csproj.CoreCompileInputs.cache
+C:\Users\142084\OneDrive - Academy District 20\C#\AcceptsDoubleResetsTo2\AcceptsDoubleResetsTo2\obj\Debug\AcceptsDoubleResetsTo2.exe
+C:\Users\142084\OneDrive - Academy District 20\C#\AcceptsDoubleResetsTo2\AcceptsDoubleResetsTo2\obj\Debug\AcceptsDoubleResetsTo2.pdb
