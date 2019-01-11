@@ -26,13 +26,13 @@ namespace Stack
             
             if ((holder.Count - 1) < 0)
             {
+                
                 Console.WriteLine("Cannot do that, the stack is empty");
-
+               
             }
-            else
-            {
+            
                 holder.RemoveAt(holder.Count - 1);
-            }
+            
 
             
             
