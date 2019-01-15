@@ -43,7 +43,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="..\..\InheritanceTreeV2.cs" />
     <Compile Include="AppleTaffy.cs" />
     <Compile Include="Chocolate.cs" />
     <Compile Include="Dark.cs" />
@@ -52,6 +51,7 @@
     <Compile Include="GummyBear.cs" />
     <Compile Include="GummyWorm.cs" />
     <Compile Include="inheritance tree.cs" />
+    <Compile Include="InheritanceTreeV2.cs" />
     <Compile Include="KitKat.cs" />
     <Compile Include="Milk.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
