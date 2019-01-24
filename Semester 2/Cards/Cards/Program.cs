@@ -14,6 +14,7 @@ namespace Cards
             Deck mystack = new Deck();
                 List<Card> discard = new List<Card>();
             List<Card> hand = new List<Card>();
+            List<Card> hand2 = new List<Card>();
             int selection;
             do
             {
@@ -22,8 +23,9 @@ namespace Cards
                 Console.WriteLine("3) Draw");
                 Console.WriteLine("4) Print Deck");
                 Console.WriteLine("5) Print Discard Pile");
-                Console.WriteLine("6) Print Hand");
-                Console.WriteLine("7) Exit");
+                Console.WriteLine("6) Print Hand 1");
+                Console.WriteLine("7) Print Hand 2");
+                Console.WriteLine("8) Exit");
                 Console.WriteLine("What do you want to do?");
                 selection = int.Parse(Console.ReadLine());
                 if (selection == 1)
@@ -38,7 +40,18 @@ namespace Cards
                 }
                 if (selection == 3)
                 {
-                    hand.Add(mystack.Draw());
+                    Console.WriteLine("Which hand do you want to put the card in? (1 or 2)");
+                   int  handwhich = int.Parse(Console.ReadLine());
+                    if(handwhich == 1) {
+                        hand.Add(mystack.Draw());
+                    }
+                    if (handwhich == 2)
+                    {
+                        hand2.Add(mystack.Draw());
+                    }
+
+
+                   
                 }
                 if (selection == 4)
                 {
@@ -61,7 +74,16 @@ namespace Cards
                         h.Print();
                     }
                 }
-            } while (selection != 7);
+             
+                if (selection == 7)
+                {
+                    Console.WriteLine("Your hand 2: ");
+                    foreach (Card h in hand2)
+                    {
+                        h.Print();
+                    }
+                }
+            } while (selection != 8);
         }
     }
 }
