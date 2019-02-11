@@ -49,8 +49,9 @@ namespace UsesTextFiles
             string path = @"C:\Users\142084\OneDrive - Academy District 20\C#\WillIWinOrLooseTheFight.txt";
 
             List<string> file = new List<string>();
-            using (Stream sr = new StreamReader(path))
+            using (StreamReader sr = new StreamReader(path))
             {
+                string firstLine = sr.ReadLine();
                 string line;
                 while ((line = sr.ReadLine()) != null)
                 {
