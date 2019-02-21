@@ -15,6 +15,7 @@ namespace Spaceshooter
 {
     class Program
     {
+        static int allowedtime = 10;
         static void Main(string[] args)
         {
             string[,] multiDimentionalArray = new String[3, 3];
@@ -34,7 +35,7 @@ namespace Spaceshooter
             
 
             string input;
-            int allowedtime = 10;
+            
             Stopwatch stopwatch = new Stopwatch();
             do
             {
@@ -323,11 +324,12 @@ namespace Spaceshooter
         }
         static void DrawBoard(string[,] multiDimentionalArray)
         {
-            Console.WriteLine(multiDimentionalArray[0, 0] + " | " + multiDimentionalArray[0, 1] + " | " + multiDimentionalArray[0, 2]);
+            Console.WriteLine(multiDimentionalArray[0, 0] + " | " + multiDimentionalArray[0, 1] + " | " + multiDimentionalArray[0, 2] );
             Console.WriteLine("");
-            Console.WriteLine(multiDimentionalArray[1, 0] + " | " + multiDimentionalArray[1, 1] + " | " + multiDimentionalArray[1, 2]);
+            Console.WriteLine(multiDimentionalArray[1, 0] + " | " + multiDimentionalArray[1, 1] + " | " + multiDimentionalArray[1, 2]   );
             Console.WriteLine("");
-            Console.WriteLine(multiDimentionalArray[2, 0] + " | " + multiDimentionalArray[2, 1] + " | " + multiDimentionalArray[2, 2]);
+            Console.WriteLine(multiDimentionalArray[2, 0] + " | " + multiDimentionalArray[2, 1] + " | " + multiDimentionalArray[2, 2] );
+            Console.WriteLine("Time Left: "+ allowedtime);
         }
 
             
