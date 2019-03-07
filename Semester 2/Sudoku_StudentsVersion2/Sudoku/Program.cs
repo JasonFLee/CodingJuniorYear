@@ -71,7 +71,7 @@ namespace Sudoku
                 }
                 Console.Clear();
             } while (userInput != 5);
-            
+
         }
 
         /// <summary>
@@ -86,7 +86,7 @@ namespace Sudoku
                 Console.WriteLine("Press any key to continue...");
                 Console.ReadKey();
             }
-            else 
+            else
             {
                 Console.WriteLine("This board has been solved incorrectly.");
                 Console.WriteLine("Press any key to continue...");
@@ -181,7 +181,7 @@ namespace Sudoku
         /// </summary>
         /// <param name="board">The board to solve</param>
         /// <returns>True if the board was solved, false otherwise.</returns>
-        
+
         public static bool SolveBoardIterativelyWithQueue(ref SudokuBoard board)
         {
             Stack<SudokuBoard> boards = new Stack<SudokuBoard>();
@@ -195,19 +195,19 @@ namespace Sudoku
                 if (currentboard.VerifyBoard() == true)
                 {
                     //apply board to our ref parameter 
-                    board =  currentboard;
+                    board = currentboard;
                     //and return true
                     return true;
                 }
                 bool hasrun = false;
                 for (int i = 0; i < 9; i++)
                 {
-                    for(int j = 0; j < 9; j++)
+                    for (int j = 0; j < 9; j++)
                     {
                         if (hasrun != true && currentboard.Board[i, j] == 0)
                         {
                             List<int> legalboard = currentboard.FindLegalDigits(i, j);
-                            foreach( int s in legalboard)
+                            foreach (int s in legalboard)
                             {
                                 SudokuBoard b = new SudokuBoard(currentboard);
                                 b.Board[i, j] = s;
@@ -217,7 +217,7 @@ namespace Sudoku
                         }
                     }
                 }
-            } 
+            }
 
             return false;
         }
