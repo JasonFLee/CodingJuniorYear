@@ -47,16 +47,18 @@ namespace Spaceshooter
                 input = Console.ReadLine();
                 stopwatch.Stop();
                 int stopwatchtime = (int)stopwatch.Elapsed.TotalSeconds;
-                if(stopwatchtime > allowedtime)
+                if (allowedtime > 2)
+                {
+                    allowedtime = allowedtime - 1;
+                }
+
+                if (stopwatchtime > allowedtime)
                 {
                     Console.WriteLine("you ran out of time");
                     Console.ReadLine();
                             break;
                 }
-                if(allowedtime > 2)
-                {
-                    allowedtime = allowedtime - 1;
-                }
+               
                 
                 //increment
 
