@@ -1,0 +1,4 @@
+Three things about this program:
+It will set your calculator to degree mode, so be aware of this.
+In the conics section the program only currently works when Bxy is 0
+If you abort the program in the middle or there is an error you will need to to the following command to graph functions: Vars<YVars<4<1

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChancesSimulator", "ChancesSimulator\ChancesSimulator.csproj", "{F230210E-28FE-439C-A8E2-0F8543A69202}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F230210E-28FE-439C-A8E2-0F8543A69202}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F230210E-28FE-439C-A8E2-0F8543A69202}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F230210E-28FE-439C-A8E2-0F8543A69202}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F230210E-28FE-439C-A8E2-0F8543A69202}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA58A217-6C7A-4216-B7CE-B44398B4BDDF}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,42 @@
+***"Derive" for the TI-83+***
+
+1. STARTING OFF:
+Derive is a calculus program that displays the derivative of a given equation. It is able to give the derivative of these equations:
+
+INPUT:	OUTPUT:  (C is a constant)
+C 	0
+CX 	C
+CX² 	(2)CX
+CX^N	(N)CX^(N-1)
+
+The equation is stored in Y1. The derivative is stored in Y2.
+
+To do the same problem again, simply type "Y1" at the prompt.
+
+To get the second derivative, type "Y2" at the prompt. (You might need to change Y2, see note below)
+
+NOTE: This program doesn't calculate anything, it just moves around strings. For example, the derivative of "5X^4" is given as "(4)5X^(4-1)". For longer problems, it is a good idea to go to Y2 and simplify it avoid confusion. Also, if you wish to put "Y2" at the prompt to calculate the second derivative, you will need to simplify (in this case, to "20X^3").
+
+
+2. MORE COMPLEX EQUATIONS:
+You are not limited to problems such as "3X²". You are able to string problems together, as in "X²-7X+4".
+
+POWER RULE:
+Input:  (Equation)^(Power)
+Output: (Equation')(Power)(Equation)^(Power-1)
+
+MULTIPLICATION:
+Input:  (Equation1)*(Equation2)
+Output: (Equation1)(Equation2')+(Equation2)(Equation1')
+
+DIVISION:
+Input:  (Equation1)/(Equation2)
+Output: ((Equation2)(Equation1')+(Equation1)(Equation2'))/(Equation2)²
+
+
+3. TANGENT LINE:
+Find the tangent line of the equation at an X-value. The tangent line will be stored as Y3. The slope will be stored as "P" (if you can't see all of it on the screen)
+
+----------------------------------------------------------------------
+
+Look for my other calculus program, "Integrate"
