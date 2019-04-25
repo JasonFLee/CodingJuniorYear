@@ -134,14 +134,6 @@ namespace BinaryTree
             }
             return minv;
         }
-
-
-
-        public void balance()
-        {
-
-        }
-
         public void PreOrderPrint()
         {
             PreOrderPrint(Root);
