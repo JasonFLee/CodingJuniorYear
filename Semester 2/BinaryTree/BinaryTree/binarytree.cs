@@ -174,7 +174,7 @@ namespace BinaryTree
                 PostOrderPrint(c.RightChild);
              
                 
-                Console.Write(Root.Value + " ");
+                Console.Write(c.Value + " ");
             }
         }
 
