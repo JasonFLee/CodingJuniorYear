@@ -25,16 +25,16 @@ namespace EqualizingWater
 
                     file.Add(line);
                 }
-              
+
                 string name = file[1];
                 string secondname = file[3];
-                string givennumbers  = file[2].Replace(" ", "");
+                string givennumbers = file[2].Replace(" ", "");
                 int[] givennumberint;
                 string givennumbers2 = file[4].Replace(" ", ""); ;
                 int[] givennumberint2;
 
 
-             
+
 
                 givennumberint = givennumbers.Select(q => int.Parse(q.ToString())).ToArray();
                 int tankcount = (givennumberint[0]);
@@ -45,7 +45,7 @@ namespace EqualizingWater
                 givennumberint2 = givennumbers.Select(q => int.Parse(q.ToString())).ToArray();
 
 
-              
+
                 decimal tank1 = (givennumberint[0]);
                 Console.WriteLine("Tank One: " + tank1);
                 decimal tank2 = (givennumberint[1]);
@@ -59,17 +59,17 @@ namespace EqualizingWater
                 decimal totalmean = totalwater / tankcount;
                 Console.WriteLine("Wanted: " + totalmean + " in each");
 
-                int count = 0; 
-              
+                int count = 0;
+
                 decimal difference12 = Math.Abs(tank1 - tank2);
                 decimal difference23 = Math.Abs(tank2 - tank3);
                 decimal difference34 = Math.Abs(tank3 - tank4);
                 decimal difference13 = Math.Abs(tank1 - tank3);
-                decimal difference14 = Math.Abs(tank1 - tank4);             
+                decimal difference14 = Math.Abs(tank1 - tank4);
                 decimal difference24 = Math.Abs(tank2 - tank4);
-             
 
-                if (tank1 != totalmean && (difference12/2) + tank1== totalmean)
+
+                if (tank1 != totalmean && (difference12 / 2) + tank1 == totalmean)
                 {
                     count = count + 1;
                     tank1 = totalmean;
@@ -107,58 +107,12 @@ namespace EqualizingWater
                     tank3 = totalmean;
                 }
 
-                Console.WriteLine("You need to switch " + name + " " + count +" times.");
-
-
-
-
-
-
-                //if(difference12 != 0)
-                //{
-                //    count = count + 1;
-                //}
-                //if (difference13 != 0)
-                //{
-                //    count = count + 1;
-                //}
-                //if (difference14 != 0)
-                //{
-                //    count = count + 1;
-                //}
-                //if (difference23 != 0)
-                //{
-                //    count = count + 1;
-
-                //}
-                //if (difference24 != 0)
-                //{
-                //    count = count + 1;
-
-                //}
-                //if (difference34 != 0)
-                //{
-                //    count = count + 1;
-                //}
-
-
-
-
-
-
-
-
-
-
-
+                Console.WriteLine("You need to switch " + name + " " + count + " times.");
 
                 Console.ReadLine();
 
+
             }
-           
-
-
-
         }
     }
 }
