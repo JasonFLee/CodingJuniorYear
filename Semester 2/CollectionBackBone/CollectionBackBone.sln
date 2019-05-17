@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CollectionBackBone", "CollectionBackBone\CollectionBackBone.csproj", "{AE87815E-2A2B-48D2-999A-FCA98B0CA87D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE87815E-2A2B-48D2-999A-FCA98B0CA87D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE87815E-2A2B-48D2-999A-FCA98B0CA87D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE87815E-2A2B-48D2-999A-FCA98B0CA87D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE87815E-2A2B-48D2-999A-FCA98B0CA87D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F0EB2C0-8A1F-4F37-98AA-F26D4A4965E6}
+	EndGlobalSection
+EndGlobal
